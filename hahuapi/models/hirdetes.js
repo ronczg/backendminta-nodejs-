@@ -30,7 +30,7 @@ const hirdetesSchema = new Schema({
     },
     kepUrl:{
         type: String,
-        maxlength: 300
+        maxlength: 500
         
     }
 
